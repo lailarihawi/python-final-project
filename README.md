@@ -1,1 +1,3 @@
 For my final project, I've created a DNA sequence analyzer that can analyze both .fasta and .txt files containing DNA nucleotide sequences to look for any mutations or deletions. The user inputs a reference sequence and a sample sequence that will be analyzed in comparison, and the code will output the location of the mutation or deletion and what the nucleotide change is. The code will output to a results file to store the information.
+
+link to youtube video: https://www.youtube.com/watch?v=2oA_VmelPZg
